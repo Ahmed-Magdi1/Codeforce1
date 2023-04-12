@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/calcuator.dir/src/Small_clculator.cpp.o  -o calcuator 

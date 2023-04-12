@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sumdigit.dir/src/Summation_of_digits.cpp.o  -o sumdigit 

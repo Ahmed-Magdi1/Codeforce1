@@ -1,0 +1,10 @@
+/home/ahmed/Code_Force_1/build/CMakeFiles/YESorNO.dir
+/home/ahmed/Code_Force_1/build/CMakeFiles/sumdigit.dir
+/home/ahmed/Code_Force_1/build/CMakeFiles/hello.dir
+/home/ahmed/Code_Force_1/build/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Code_Force_1/build/CMakeFiles/fcr.dir
+/home/ahmed/Code_Force_1/build/CMakeFiles/sum1_n.dir
+/home/ahmed/Code_Force_1/build/CMakeFiles/calcuator.dir
+/home/ahmed/Code_Force_1/build/CMakeFiles/diff.dir
+/home/ahmed/Code_Force_1/build/CMakeFiles/edit_cache.dir
+/home/ahmed/Code_Force_1/build/CMakeFiles/area.dir
