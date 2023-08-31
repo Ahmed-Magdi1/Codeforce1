@@ -1,4 +1,4 @@
-# This repositry is about the codeforce (1)
+# This repository is about the codeforce (1)
 
 * First download the build file 
 * Second download src file
